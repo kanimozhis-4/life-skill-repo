@@ -35,3 +35,6 @@ In software, **Service-Oriented Architecture (SOA)** is used to enable different
 
 - **Centralized Control**:
   - Use an API gateway for managing requests. Automate deployment processes for quick and reliable updates.
+## Reference 
+- https://youtu.be/PA9RjHI463g?si=imIRVUErHpqg4cbv
+- https://learn.microsoft.com/en-us/archive/msdn-magazine/2010/june/msdn-magazine-soa-tips-address-scalability-bottlenecks-with-distributed-caching
