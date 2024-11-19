@@ -27,8 +27,10 @@
 
 ### 6. Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
 - Exercise boosts brain function and memory.
-- Regular exercise reduces stress.
+- Exercise reduces stress.
 - It stimulates new brain cell production.
+- Regular exercise increases concentration and mental clarity.
+- It helps prevent mental and cognitive diseases.
 
 ### 7. What are some steps you can take to exercise more? 
 - Set specific goals.
